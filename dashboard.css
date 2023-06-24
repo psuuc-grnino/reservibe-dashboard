@@ -15,7 +15,7 @@ section{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    background: url(images/port.png) no-repeat;
+    background: url(images/bg_header.png) no-repeat;
     background-size: cover;
     background-position: start;
     opacity: 80%;
